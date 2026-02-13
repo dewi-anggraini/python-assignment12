@@ -10,7 +10,7 @@ countries = df['country'].unique()
 
 # Initialize Dash app
 app = Dash(__name__) # This creates the app object, to wich various things are added below. 
-server = app.server() # required for Render
+server = app.server # required for Render
 # __name__ is the name of the running Python module, which is your main module in this case
 
 # Layout: This section creates the HTML components
