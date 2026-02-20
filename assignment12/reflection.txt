@@ -1,0 +1,14 @@
+# Task 6: Reflection
+Reflection on Visualization and Dashboards:
+1. Static visualizations are pictures of data that don't change.
+they are good for presentation or reports because they give a clear overview.
+Interactive visualizations, on the other hand, let users zoom, click, or filter the data, this makes it easier to
+explore and get what they want to see.
+
+Dashboards are helpful because they bring many charts and views together in one place. 
+They make it easy to see updates right away, compare information, 
+and make decisions without having to create more graph each time.
+
+Interactive tools like Plotly and Dash make data communication stronger in professional setting.
+They allow people to interact with the data directly, which help teams understand the data better, stay engaged,
+and make smarter choices based on the data present.

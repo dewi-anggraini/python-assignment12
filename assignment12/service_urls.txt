@@ -1,0 +1,12 @@
+# A DASHBOARD WITH DASH GITHUB REPO LINK:
+https://github.com/dewi-anggraini/python-assignment12
+
+# RENDER DASH URL:
+Failed to fulfill Card Verification Procedure results in inability to deploy.
+
+# STREAMLIT-ASSIGNMENT12 GITHUB REPO LINK
+https://github.com/dewi-anggraini/streamlit-assignment
+
+# STREAMLIT-ASSIGNMENT-APP URL
+https://app-assignment-btu46xn9yrx49xm2e6ssjw.streamlit.app/
+
